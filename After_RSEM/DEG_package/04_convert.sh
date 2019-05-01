@@ -1,0 +1,1 @@
+python //data/project/CAFFGENE_EXTENDED/bin/After_RSEM/UCSC_geneID_to_official_gene_symbol_for_ebseq_results.py Ch25h_KO_1_trimmed.rsem.genes.results //data/project/CAFFGENE_EXTENDED/data/ref_data/mm10_kgXref ch25h.deg.list DEG.list
