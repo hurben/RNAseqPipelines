@@ -4,5 +4,3 @@ Old pipeline. (2015)
 
 > Variant calling : GATK
 > Expression profiling : RSEM
-
-Highly recommend not to use it.
